@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="Simulator and training systems">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d3560"/><stop offset="1" stop-color="#031a31"/></linearGradient>
+<radialGradient id="glow" cx=".68" cy=".45" r=".5"><stop offset="0" stop-color="#bd974c" stop-opacity=".28"/><stop offset="1" stop-color="#bd974c" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity=".05"/></pattern>
+</defs>
+<rect width="640" height="360" fill="url(#bg)"/><rect width="640" height="360" fill="url(#grid)"/><rect width="640" height="360" fill="url(#glow)"/>
+<path d="M0 356H640" stroke="#bd974c" stroke-width="4"/>
+<g fill="none" stroke="#bd974c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+
+<rect x="150" y="70" width="340" height="190" rx="8" fill="#bd974c" fill-opacity="0.1"/>
+<rect x="164" y="84" width="312" height="162" rx="3" stroke-opacity=".5"/>
+<circle cx="320" cy="165" r="52"/><circle cx="320" cy="165" r="22"/>
+<path d="M320 100v36M320 194v36M255 165h36M349 165h36"/>
+<path d="M270 260h100M320 260v28M262 292h116" />
+<circle cx="520" cy="285" r="42" fill="#bd974c" fill-opacity="0.14"/><circle cx="520" cy="285" r="10"/>
+<path d="M480 285h80M520 285v42M520 285l-30 -28M520 285l30 -28" stroke-width="2.5"/>
+
+</g>
+</svg>

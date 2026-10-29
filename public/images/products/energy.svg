@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="Energy and environment">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d3560"/><stop offset="1" stop-color="#031a31"/></linearGradient>
+<radialGradient id="glow" cx=".68" cy=".45" r=".5"><stop offset="0" stop-color="#bd974c" stop-opacity=".28"/><stop offset="1" stop-color="#bd974c" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity=".05"/></pattern>
+</defs>
+<rect width="640" height="360" fill="url(#bg)"/><rect width="640" height="360" fill="url(#grid)"/><rect width="640" height="360" fill="url(#glow)"/>
+<path d="M0 356H640" stroke="#bd974c" stroke-width="4"/>
+<g fill="none" stroke="#bd974c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+
+<circle cx="170" cy="110" r="36" fill="#bd974c" fill-opacity="0.3"/>
+<path d="M222 110L240 110"/><path d="M207 147L219 159"/><path d="M170 162L170 180"/><path d="M133 147L121 159"/><path d="M118 110L100 110"/><path d="M133 73L121 61"/><path d="M170 58L170 40"/><path d="M207 73L219 61"/>
+<path d="M430 120V300"/><path d="M424 300h12"/><circle cx="430" cy="120" r="9" fill="#bd974c" fill-opacity="0.4"/>
+<path d="M430 111c-4-30-2-56 4-76 10 22 10 50-4 76z" fill="#bd974c" fill-opacity="0.25"/>
+<path d="M438 125c26 12 46 30 58 52-26 2-52-10-58-52z" fill="#bd974c" fill-opacity="0.25"/>
+<path d="M422 125c-22 16-48 22-72 16 14-22 40-34 72-16z" fill="#bd974c" fill-opacity="0.25"/>
+<path d="M90 296l40-86h130l-30 86z" fill="#bd974c" fill-opacity="0.14"/>
+<path d="M110 253h150M118 233h148M148 210l-22 86M196 210l-18 86M242 210l-12 86" stroke-width="2" stroke-opacity=".7"/>
+<path d="M500 220c0-48 28-76 66-76 0 44-24 78-66 76zM500 220l36-40" stroke-opacity=".8"/>
+<path d="M60 312h520" stroke-opacity=".5"/>
+
+</g>
+</svg>

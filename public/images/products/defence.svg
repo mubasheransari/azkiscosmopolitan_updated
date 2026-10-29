@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="Armoured tank">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d3560"/><stop offset="1" stop-color="#031a31"/></linearGradient>
+<radialGradient id="glow" cx=".68" cy=".45" r=".5"><stop offset="0" stop-color="#bd974c" stop-opacity=".28"/><stop offset="1" stop-color="#bd974c" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity=".05"/></pattern>
+</defs>
+<rect width="640" height="360" fill="url(#bg)"/><rect width="640" height="360" fill="url(#grid)"/><rect width="640" height="360" fill="url(#glow)"/>
+<path d="M0 356H640" stroke="#bd974c" stroke-width="4"/>
+<g fill="none" stroke="#bd974c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+
+<path d="M150 235h340l30-28H175z" fill="#bd974c" fill-opacity="0.16"/>
+<path d="M175 207l16-28h230l22 28" fill="#bd974c" fill-opacity="0.1"/>
+<path d="M235 179l14-32h140l16 32"  fill="#bd974c" fill-opacity="0.22"/>
+<path d="M389 160H555" stroke-width="7"/><path d="M555 150v20" stroke-width="5"/>
+<rect x="136" y="235" width="404" height="46" rx="23" fill="#bd974c" fill-opacity="0.1"/>
+<circle cx="170" cy="258" r="14" fill="#bd974c" fill-opacity="0.2"/><circle cx="170" cy="258" r="5.6000000000000005"/><circle cx="222" cy="258" r="14" fill="#bd974c" fill-opacity="0.2"/><circle cx="222" cy="258" r="5.6000000000000005"/><circle cx="274" cy="258" r="14" fill="#bd974c" fill-opacity="0.2"/><circle cx="274" cy="258" r="5.6000000000000005"/><circle cx="326" cy="258" r="14" fill="#bd974c" fill-opacity="0.2"/><circle cx="326" cy="258" r="5.6000000000000005"/><circle cx="378" cy="258" r="14" fill="#bd974c" fill-opacity="0.2"/><circle cx="378" cy="258" r="5.6000000000000005"/><circle cx="430" cy="258" r="14" fill="#bd974c" fill-opacity="0.2"/><circle cx="430" cy="258" r="5.6000000000000005"/><circle cx="482" cy="258" r="14" fill="#bd974c" fill-opacity="0.2"/><circle cx="482" cy="258" r="5.6000000000000005"/>
+<path d="M120 300h440" stroke-opacity=".5"/>
+
+
+</g>
+</svg>
